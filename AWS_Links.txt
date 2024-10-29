@@ -8,3 +8,14 @@ https://www.youtube.com/watch?v=7m_q1ldzw0U
 https://docs.aws.amazon.com/linux/al2/ug/hosting-wordpress.html
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html
 https://wellarchitectedlabs.com/
+https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc&awsf.getting-started-category=*all
+https://aws.amazon.com/tutorials/
+https://cloudresumechallenge.dev/docs/the-challenge/aws/
+https://www.udemy.com/course/aws-automation-series-course-1-learn-aws-step-by-step/?couponCode=DIWALIMT102824
+https://www.udemy.com/course/aws-mastery-basics-to-real-world-aws-projects-unleashed/?couponCode=DIWALIMT102824
+https://www.udemy.com/course/aws-automation-series-course-1-learn-aws-step-by-step/?couponCode=DIWALIMT102824
+https://www.udemy.com/course/5-gitlab-spa-project-java-nodejs-php-python-handson-only/?couponCode=DIWALIMT102824
+https://www.udemy.com/course/5-devops-project-jenkins-k8s-docker-aws-sonarqubenexus/?couponCode=DIWALIMT102824
+https://www.udemy.com/course/rocking-aws-for-beginners-hands-on/?couponCode=DIWALIMT102824
+https://www.udemy.com/course/decodingdevops/?couponCode=DIWALIMT102824
+https://www.udemy.com/course/amazon-web-services-aws-with-python-boto3/?couponCode=DIWALIMT102824
