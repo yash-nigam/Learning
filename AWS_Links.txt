@@ -19,3 +19,16 @@ https://www.udemy.com/course/5-devops-project-jenkins-k8s-docker-aws-sonarqubene
 https://www.udemy.com/course/rocking-aws-for-beginners-hands-on/?couponCode=DIWALIMT102824
 https://www.udemy.com/course/decodingdevops/?couponCode=DIWALIMT102824
 https://www.udemy.com/course/amazon-web-services-aws-with-python-boto3/?couponCode=DIWALIMT102824
+#Migration Links
+https://explore.skillbuilder.aws/learn/course/internal/view/elearning/19817/aws-flash-migrating-vmware-workloads-to-aws
+https://explore.skillbuilder.aws/learn/course/internal/view/elearning/16132/designing-landing-zone-architectures-with-aws-control-tower
+https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14473/aws-migration-hub-primer
+https://explore.skillbuilder.aws/learn/course/19149/play/134787/migration-evaluator-gather-insights-to-deliver-a-migration-business-case
+https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1727/introduction-to-aws-application-migration-service
+https://explore.skillbuilder.aws/learn/course/internal/view/elearning/19217/migration-immersion-day-includes-labs
+https://explore.skillbuilder.aws/learn/course/internal/view/elearning/19280/aws-application-migration-service-getting-started
+https://explore.skillbuilder.aws/learn/course/internal/view/elearning/19705/digital-classroom-aws-migration-essentials  
+https://explore.skillbuilder.aws/learn/course/internal/view/elearning/15542/using-aws-solutions-aws-cloud-migration-factory
+https://explore.skillbuilder.aws/learn/course/internal/view/elearning/13209/selecting-your-data-migration-strategy-with-aws
+https://explore.skillbuilder.aws/learn/course/internal/view/elearning/15772/migrate-multiple-servers-with-cloud-migration-factory-on-aws
+https://explore.skillbuilder.aws/learn/course/internal/view/elearning/14947/discovering-applications-to-migrate-by-using-aws-application-discovery-services-ads
